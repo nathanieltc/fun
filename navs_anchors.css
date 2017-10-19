@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.anchor {
+	display:block;
+	padding-top:50px;
+	margin-top;-50px;
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 246px;
+}
