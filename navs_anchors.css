@@ -10,10 +10,10 @@
 
 .sticky {
   position: fixed;
-  top: 0;
+  top: 36;
   width: 100%
 }
 
 .sticky + .content {
-  padding-top: 36px;
+  padding-top: 250px;
 }
